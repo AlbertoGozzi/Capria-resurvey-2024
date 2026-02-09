@@ -11,7 +11,7 @@ between 2002 and 2024.
 
 **Author:** Aberto Gozzi  
 **Affiliation:** Università di Bologna  
-**Thesis Title:** IL BOSCO CHE AVANZA: RESURVEY A CAPRIA TRA CHIUSURA DI CHIOMA E TURNOVER FLORISTICO 
+**Thesis Title:** Il bosco che avanza: resurvey a Capria tra chiusura di chioma e turnover floristico
 **Year:** 2026
 
 ## Methods Summary
@@ -64,7 +64,7 @@ Raw data available on request from the author.
 If you use this code, please cite:
 
 > GOZZI, Alberto. (2026). Vegetation resurvey analysis - Capria 2002-2024. 
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+> Zenodo.https://doi.org/10.5281/zenodo.18551150
 
 Or cite the thesis:
 
