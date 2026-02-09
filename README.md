@@ -11,7 +11,7 @@ between 2002 and 2024.
 
 **Author:** Aberto Gozzi  
 **Affiliation:** Università di Bologna  
-**Thesis Title:** Capria 50 anni dopo  
+**Thesis Title:** IL BOSCO CHE AVANZA: RESURVEY A CAPRIA TRA CHIUSURA DI CHIOMA E TURNOVER FLORISTICO 
 **Year:** 2026
 
 ## Methods Summary
