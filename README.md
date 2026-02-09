@@ -9,10 +9,10 @@ vegetation resurvey analysis conducted in the Capria study area
 (Tuscan-Emilian Apennines, Italy), comparing floristic composition 
 between 2002 and 2024.
 
-**Author:** [TUO NOME COMPLETO]  
-**Affiliation:** [TUA UNIVERSITÀ]  
-**Thesis Title:** [TITOLO TESI]  
-**Year:** 2025
+**Author:** Aberto Gozzi  
+**Affiliation:** Università di Bologna  
+**Thesis Title:** Capria 50 anni dopo  
+**Year:** 2026
 
 ## Methods Summary
 
