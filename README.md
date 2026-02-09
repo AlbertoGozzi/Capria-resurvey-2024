@@ -68,7 +68,7 @@ If you use this code, please cite:
 
 Or cite the thesis:
 
-> GOZZI, Alberto. (2026). Capria 50 anni dopo. MSc Thesis, Università di Bologna.
+> GOZZI, Alberto. (2026). Il bosco che avanza: resurvey a Capria tra chiusura di chioma e turnover floristico . MSc Thesis, Università di Bologna.
 
 ## License
 
